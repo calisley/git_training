@@ -6,3 +6,5 @@ This is further modification of Alice.txt.
 Further text to alice
 this is a change made on the website!
 Changing Alice locally
+more text to alice 
+more more text to alice
