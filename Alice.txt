@@ -1,3 +1,8 @@
 Hi!! I'm Alice. I'm a file someone added to this repository a while ago.
 this is a change made on the website!
 changing again!
+This is some new text on the second line.
+This is further modification of Alice.txt.
+Further text to alice
+this is a change made on the website!
+Changing Alice locally
